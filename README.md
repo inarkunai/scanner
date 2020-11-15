@@ -7,4 +7,4 @@ If you still confused to use the program feel free to email our company as our s
 Thank you
 
 P.S.
-Our account is created by freshly new IT Programmer, need to get Security Training to make a proper software with secure coding standard
+We are here to help the community to provide good software and our account is created by freshly new IT Programmer, need to get Security Training to make a proper software with secure coding standard.
