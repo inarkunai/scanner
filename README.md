@@ -5,3 +5,6 @@ This is a scanner program to find out what hosts are up or down in a certain fil
 If you still confused to use the program feel free to email our company as our support to the first release of this open source software at inrakunnai.corps@yahoo.com
 
 Thank you
+
+P.S.
+Our account is created by freshly new IT Programmer, need to get Security Training to make a proper software with secure coding standard
