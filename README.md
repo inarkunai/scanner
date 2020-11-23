@@ -1,4 +1,4 @@
-# scanner
+# Scanner Host Check
 
 This is a scanner program to find out what hosts are up or down in a certain file range. You can use command to put output file using Bash Shell Kung Fu :)
 
