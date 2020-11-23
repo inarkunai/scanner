@@ -4,7 +4,7 @@ This is a scanner program to find out what hosts are up or down in a certain fil
 
 If you still confused to use the program feel free to email our company as our support to the first release of this open source software at inrakunnai.corps@yahoo.com
 
-We have just added new events in our social media, hope you guys check it out to see whats  interesting information that can be used for the goods.
+We have just added new events in our social media (twitter @inarkunai), hope you guys check it out to see whats  interesting information that can be used for the goods.
 
 Thank you
 
